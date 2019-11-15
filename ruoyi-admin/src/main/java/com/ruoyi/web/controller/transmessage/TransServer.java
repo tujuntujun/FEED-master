@@ -42,9 +42,8 @@ public class TransServer {
                         @Override
                         protected void initChannel(SocketChannel socketChannel) throws Exception {
                             ChannelPipeline pipeline = socketChannel.pipeline();
-                            socketChannel.pipeline().addLast(new TransServerHandler());
-                            pipeline.addLast("frameEncoder", new LengthFieldPrepender(4));
                             pipeline.addLast("decoder", new StringDecoder(CharsetUtil.UTF_8));
+                            pipeline.addLast(new TransServerHandler());
                             pipeline.addLast("encoder", new StringEncoder(CharsetUtil.UTF_8));
                         }
                     });
