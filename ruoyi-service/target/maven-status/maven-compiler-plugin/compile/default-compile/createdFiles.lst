@@ -1,0 +1,10 @@
+com\ruoyi\service\domain\Motor.class
+com\ruoyi\service\service\IPigstyinfoService.class
+com\ruoyi\service\utils\ApiResService.class
+com\ruoyi\service\service\IMotorService.class
+com\ruoyi\service\service\impl\MotorServiceImpl.class
+com\ruoyi\service\service\impl\PigstyinfoServiceImpl.class
+com\ruoyi\service\mapper\PigstyinfoMapper.class
+com\ruoyi\service\domain\ApiRes.class
+com\ruoyi\service\mapper\MotorMapper.class
+com\ruoyi\service\domain\Pigstyinfo.class

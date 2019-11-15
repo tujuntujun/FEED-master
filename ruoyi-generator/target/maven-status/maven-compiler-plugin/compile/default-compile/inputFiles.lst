@@ -1,0 +1,10 @@
+H:\FEED-master\ruoyi-generator\src\main\java\com\ruoyi\generator\mapper\GenMapper.java
+H:\FEED-master\ruoyi-generator\src\main\java\com\ruoyi\generator\service\IGenService.java
+H:\FEED-master\ruoyi-generator\src\main\java\com\ruoyi\generator\service\impl\GenServiceImpl.java
+H:\FEED-master\ruoyi-generator\src\main\java\com\ruoyi\generator\domain\ColumnInfo.java
+H:\FEED-master\ruoyi-generator\src\main\java\com\ruoyi\generator\util\GenUtils.java
+H:\FEED-master\ruoyi-generator\src\main\java\com\ruoyi\generator\controller\GenController.java
+H:\FEED-master\ruoyi-generator\src\main\java\com\ruoyi\generator\util\VelocityInitializer.java
+H:\FEED-master\ruoyi-generator\src\main\java\com\ruoyi\generator\domain\TableInfo.java
+H:\FEED-master\ruoyi-generator\src\main\java\com\ruoyi\generator\config\GenConfig.java
+H:\FEED-master\ruoyi-generator\src\main\java\com\ruoyi\generator\domain\ColumnConfigInfo.java
